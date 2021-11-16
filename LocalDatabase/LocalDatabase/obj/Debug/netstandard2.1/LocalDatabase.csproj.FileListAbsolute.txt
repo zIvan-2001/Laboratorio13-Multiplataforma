@@ -1,0 +1,17 @@
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard2.1\LocalDatabase.deps.json
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard2.1\LocalDatabase.dll
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard2.1\ref\LocalDatabase.dll
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\bin\Debug\netstandard2.1\LocalDatabase.pdb
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.csproj.AssemblyReference.cache
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\Views\AlbumesPage.xaml.g.cs
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\Views\AlbumPage.xaml.g.cs
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.dll
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\ref\LocalDatabase.dll
+C:\Users\Ivan\source\repos\LocalDatabase\LocalDatabase\LocalDatabase\obj\Debug\netstandard2.1\LocalDatabase.pdb
